@@ -22,7 +22,7 @@ Creaciòn de interfaces funcionales y resoluciòn de problemas con HTML, CSS y J
 
 **Como se usa este Alura Geek?:** 
 1. Descarga este archivo en tu PC, visualiza el archivo con extension html en tu navegador.
-2. En la pagina veras un cuadro para agregar un prodcuto / Nombre / Precio / Imagen 
+2. En la pagina veras un cuadro para agregar un producto / Nombre / Precio / Imagen 
 3. Luego le das click en enviar y tu producto se agrego satisfactoriamente.
 
 <p align="center" >
