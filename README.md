@@ -6,7 +6,7 @@
 
 🥇 Desarrollo del reto: "AluraGeek" 👩‍💻 💻  #challengeonecodificador6
 
-Segundo reto del programa **Oracle ONE**
+Tercer reto del programa **Oracle ONE**
 
 Creaciòn de interfaces funcionales y resoluciòn de problemas con HTML, CSS y JavaScript
 
