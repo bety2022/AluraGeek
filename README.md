@@ -36,7 +36,7 @@ Creaciòn de interfaces funcionales y resoluciòn de problemas con HTML, CSS y J
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/Encriptador/" >
+    <a href="https://bety2022.github.io/AluraGeek/" >
       🔗 Visitar Alura Geek
     </a>
 </div>
