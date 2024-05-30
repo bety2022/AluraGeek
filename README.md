@@ -26,7 +26,7 @@ Creaciòn de interfaces funcionales y resoluciòn de problemas con HTML, CSS y J
 3. Luego le das click en enviar y tu producto se agrego satisfactoriamente.
 
 <p align="center" >
-     <img width="400" heigth="300" src="AluraGeek-main/assets/icon/Mis productos.png">
+     <img width="1000" heigth="400" src="AluraGeek-main/assets/icon/Mis productos.png">
 </p>
 
 <br />
