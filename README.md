@@ -12,7 +12,7 @@ Creaciòn de interfaces funcionales y resoluciòn de problemas con HTML, CSS y J
 
 
 <p align="center" >
-     <img width="400" heigth="300" src="AluraGeek-main/assets/icon/Insignia.png">
+     <img width="400" heigth="300" src="AluraGeek-main/assets/icon/Badge-AluraGeek.png">
 </p>
 
 
