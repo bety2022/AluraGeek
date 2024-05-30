@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": "0",
+      "nombre": "Calzado",
+      "precio": "434",
+      "imagen": "https://img.freepik.com/psd-premium/venta-calzado-deportivo-publicacion-instagram-redes-sociales-o-diseno-plantilla-banner-cuadrado_70055-902.jpg"
+    }
+    
+  ]
+}
+
+// name: "Sunglasses",
+// price: "30",
+// image:
+// "https://img.freepik.com/psd-premium/plantilla-publicacion-redes-sociales-gran-venta_122059-1045.jpg?w=826",
+
+
+//name: "Smart watch",
+// price: "25",
+// image:
+// "https://img.freepik.com/psd-gratis/plantilla-banner-redes-sociales-super-venta-viernes-negro_106176-1471.jpg?w=826&t=st=1715866880~exp=1715867480~hmac=3273941e172ed658809c9ecc10e59e776b14d869db7c8216a8bbb9fcd4df1b1e",
+
+// name: "Backpack",
+// price: "40",
+// image:
+// "https://img.freepik.com/vector-premium/banner-cuadrado-venta-verano-plantilla-publicacion-redes-sociales_122059-593.jpg?w=826",
+
+
+
+// name: "Racing shoes",
+// price: "100",
+// image:
+//   "https://img.freepik.com/psd-premium/publicacion-redes-sociales-zapatos-deportivos-color-azul_823295-48.jpg?w=826",
+
+// name: "Sunglasses",
+// price: "250",
+// image:
+//   "https://img.freepik.com/psd-premium/plantilla-publicacion-redes-sociales-gran-venta_122059-1045.jpg?w=826",
+
+
+// name: "Racing shoes",
+// price: "100",
+// image:
+//   "https://img.freepik.com/psd-premium/publicacion-redes-sociales-zapatos-deportivos-color-azul_823295-48.jpg?w=826",
+
+// name: "Sneakers shoes",
+// price: "50",
+// image:
+//   "https://img.freepik.com/psd-premium/venta-calzado-deportivo-publicacion-instagram-redes-sociales-o-diseno-plantilla-banner-cuadrado_70055-902.jpg",

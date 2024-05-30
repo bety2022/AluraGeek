@@ -1,0 +1,14 @@
+Comando para iniciar el sever json:
+
+npx json-server --watch db.json --port 3001
+
+{
+  "productos": [
+    {
+      "id": "0",
+      "nombre": "Calzado",
+      "precio": "434",
+      "imagen": "https://img.freepik.com/psd-premium/venta-calzado-deportivo-publicacion-instagram-redes-sociales-o-diseno-plantilla-banner-cuadrado_70055-902.jpg"
+    },
+  ]
+}
